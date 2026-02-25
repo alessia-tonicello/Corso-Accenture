@@ -37,4 +37,3 @@ print(utils2.differenza(12, 2))
 import utils2
 print(utils2.moltiplicazione(12, 2))
 
-jk
