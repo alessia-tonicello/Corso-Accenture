@@ -1,5 +1,11 @@
+"""
+La funzione isinstance() in Python serve a verificare se un oggetto è un'istanza di una
+specifica classe o di una sua sottoclasse (ereditarietà), restituendo True o False
+"""
+
+
 def somma(a, b):
-    if not isinstance(a, int) or not isinstance(b, int):
+    if n ot isinstance(a, int) or not isinstance(b, int):
         raise TypeError("somma a,b must be int")
     return a + b
 
