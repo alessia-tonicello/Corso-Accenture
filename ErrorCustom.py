@@ -12,3 +12,5 @@ try:
     print(dividi(a, b))
 except ErroreCustom as e:
     print("Il 7 non mi piace, prova un altro numero")
+
+b
