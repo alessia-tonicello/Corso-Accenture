@@ -19,4 +19,20 @@ numeri = [1, 2, 3, 4]
 quadrati = [numero ** 2 for numero in numeri]
 print(quadrati)
 
+import utils
 
+print(utils.converti_in_maiuscolo("ciao"))
+
+
+
+import utils2
+print(utils2.divisione(12, 2))
+
+import utils2
+print(utils2.somma(12, 2))
+
+import utils2
+print(utils2.differenza(12, 2))
+
+import utils2
+print(utils2.moltiplicazione(12, 2))
