@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Mario",
+        "eta": "30",
+        "citta": "Roma",
+        "categoria": "Mid"
+    },
+    {
+        "nome": "Anna",
+        "eta": "22",
+        "citta": "Bologna",
+        "categoria": "Junior"
+    },
+    {
+        "nome": "Paolo",
+        "eta": "29",
+        "citta": "Napoli",
+        "categoria": "Junior"
+    },
+    {
+        "nome": "Sara",
+        "eta": "26",
+        "citta": "Firenze",
+        "categoria": "Junior"
+    }
+]
