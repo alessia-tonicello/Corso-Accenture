@@ -1,0 +1,7 @@
+{
+  "nome": "Mario",
+  "eta": 30,
+  "attivo": true,
+  "altezza": 1.84,
+  "interessi": ["AI", "Python", "Data"]
+}

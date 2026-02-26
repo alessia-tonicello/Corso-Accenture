@@ -37,3 +37,18 @@ print(utils2.differenza(12, 2))
 import utils2
 print(utils2.moltiplicazione(12, 2))
 
+
+f = open("dati.txt", "r")
+print(f.read())
+f.close()
+"""
+r -> lettura del file
+w -> scrittura e sovrascrittura 
+a -> append (aggiunge qualcosa alla fine del file)
+r+ -> lettura + scrittura
+"""
+
+with open("dati.txt", "r") as f:
+    contenuto = f.read()
+
+print(contenuto)
