@@ -64,3 +64,4 @@ Y_test = Y[test_idx]
 #quando l'hai capito testa i dati e vedi se ti escono questi risultati
 #se i risultati sono corretti, then TOP!
 
+#usiamo la normalizzazione per normalizzare tra 0 e 1 i dati ed evitare che il modello si sbilanci
